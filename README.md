@@ -2,7 +2,9 @@
 
 A clean, customisable, and accessible link-in-bio solution built with React, TypeScript, and Tailwind CSS.
 
-<img width="1489" alt="image" src="https://github.com/user-attachments/assets/67321430-f160-4c0a-b1c5-c255ebd3f5c0">
+<a href="https://shubs-links.netlify.app">
+    <img width="1489" alt="image" src="https://github.com/user-attachments/assets/67321430-f160-4c0a-b1c5-c255ebd3f5c0" title="Click on me, to see where I am being hosted.">
+</a>
 
 ## 🌟 Features
 
