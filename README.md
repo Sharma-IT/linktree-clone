@@ -104,7 +104,7 @@ Or use the quick deploy button:
 
 ## 📄 License
 
-GNU V.3 License - feel free to use this project for personal or commercial purposes.
+This project is licensed under the GNU V.3 License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
